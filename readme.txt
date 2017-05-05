@@ -6,3 +6,6 @@ change a row data
 dddddddddddddd
 
 create branch dev
+
+merge no-ff
+
